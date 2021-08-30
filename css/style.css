@@ -1,0 +1,43 @@
+body {
+    background: #003049;
+}
+
+.h1{
+    color: #d62828;
+    font-weight: bold;
+}
+
+.modal-content{
+
+    background-color: #fff3b0;
+}
+
+
+
+.card {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f77f00;
+}
+
+.none {
+    display: none;
+}
+
+.btn {
+    padding: 3px;
+}
+
+.checked {
+    background-color: #eae2b7 !important;
+    text-decoration: line-through;
+}
+.display{
+    display: block;
+}
+@media (max-width:720px) {
+    .h1 {
+        font-size: 35px;
+    }
+}
